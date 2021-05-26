@@ -103,7 +103,7 @@ a{
     position: absolute;
     top: 0;
     right: 0;
-    width:73%;
+    width:71%;
     height: 79%;
 }
 .svg-bottom{
@@ -111,9 +111,8 @@ a{
     position: absolute;
     bottom: 0;
     left: 0; 
-    width: 27%;
+    width: 25%;
     height: 46%;
-    fill: rgba(13, 90, 92, .3);
 }
 p{
     font-weight: bold;
@@ -144,6 +143,7 @@ p{
         height: fit-content;
         width: fit-content;
     }
+    
 }
 
 @media screen and (max-width: 425px){
